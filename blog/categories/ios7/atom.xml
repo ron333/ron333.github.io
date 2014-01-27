@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Blog of Ron Mourant]]></title>
-  <link href="http://ron333.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: iOS7 | Blog of Ron Mourant]]></title>
+  <link href="http://ron333.github.io/blog/categories/ios7/atom.xml" rel="self"/>
   <link href="http://ron333.github.io/"/>
   <updated>2014-01-27T09:33:52-05:00</updated>
   <id>http://ron333.github.io/</id>
@@ -19,16 +19,6 @@
     <updated>2014-01-27T09:20:03-05:00</updated>
     <id>http://ron333.github.io/blog/2014/01/27/uidynamics-in-ios7</id>
     <content type="html"><![CDATA[<p>Did a presentation on “An Introduction to UIDynamics in iOS 7” at the Boston MacTech Group in October, 2013.  The slides are at: <a href="http://speakerdeck.com/ron333">UIDynamics Slides</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SceneKit]]></title>
-    <link href="http://ron333.github.io/blog/2014/01/27/scenekit/"/>
-    <updated>2014-01-27T08:33:02-05:00</updated>
-    <id>http://ron333.github.io/blog/2014/01/27/scenekit</id>
-    <content type="html"><![CDATA[<p>SceneKit is a high level graphics system for OSX. I have a blog detailing information about it at:
-<a href="http://scenekitinfo.blogspot.com">SceneKit Information</a></p>
 ]]></content>
   </entry>
   
